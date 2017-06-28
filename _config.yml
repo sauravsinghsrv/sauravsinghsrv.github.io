@@ -1,0 +1,42 @@
+# Site settings
+title: "Inquisitive Me"
+email: sauravsingh.srv@gmail.com
+description: "Marketing graduate with wide range of interest. This is the space for digital me and my musings.
+Some text describing me, this should be more like jist which should prompt people to click on the link below to find out more about me." # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+account:
+  linkedin:
+    name: Professional Me
+    url: https://www.linkedin.com/in/sauravsingh-srv/
+  markblog:
+    name: Marketing Me
+    url: https://sauravsinghsrv.github.io/markblog/
+  blogger:
+    name: Blogger Me
+    url: http://sauravsinghsrv.blogspot.in/
+  instagram:
+    name: 
+    url: https://instagram.com/saurav_srv
+  youtube:
+    name: Guitarist Me
+    url: https://youtube.com/sauravsinghsrv
+  twitter:
+    name: Twitterati Me
+    url: https://twitter.com/saurav_791
+  facebook:
+    name: Facebook Me
+    url: https://www.facebook.com/sauravsingh.king
+  google:
+    name: Google Me
+    url: https://plus.google.com/+SauravSinghsrv
+  mail:
+    name: Mail Me
+    url: ""
+  photoblog:
+    name: Photographer Me
+    url: https://sauravsinghsrv.github.io/photoblog/
+
+# Build settings
+markdown: kramdown
