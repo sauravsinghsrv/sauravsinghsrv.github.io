@@ -36,7 +36,7 @@ account:
     url: ""
   photoblog:
     name: Photographer Me
-    url: https://sauravsinghsrv.github.io/photoblog/
+    url: https://sauravsinghsrv.github.io/phot-o-graf/
 
 # Build settings
 markdown: kramdown
